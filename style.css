@@ -1,0 +1,15 @@
+h1 {
+  font-size: 42px;
+  font-family: Arial;
+  color: red;
+  text-align: center;
+}
+
+.blochyper{
+  font-size: 25px;
+  font-family: arial;
+  color: purple;
+}
+body {
+  background-color: grey;
+}
